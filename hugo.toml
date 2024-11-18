@@ -1,4 +1,4 @@
-baseURL = 'https://lgarciavelazquez.github.io/'
+baseURL = ''
 languageCode = 'es'
 title = 'Mi 3º sitio hugo'
 theme =  'PaperMod'
