@@ -1,0 +1,12 @@
+baseURL = 'https://lgarciavelazquez.github.io/'
+languageCode = 'es'
+title = 'Mi 3º sitio hugo'
+theme =  'PaperMod'
+
+[menu]
+[[menu.main]]
+identifier = 'posts'
+name = 'Publicaciones'
+url = '/posts/'
+
+
